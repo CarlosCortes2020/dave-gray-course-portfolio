@@ -1,0 +1,15 @@
+:root {
+    --yinmn-blue: #415a92;
+    --delft-blue: #202e5a;
+    --lilac: #baa0bd;
+    --space-cadet: #141534;
+    --blush: #bd6e86;
+}
+
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: papayawhip;
+    color: rgb(67, 67, 190);
+}
