@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 :root {
     --yinmn-blue: #415a92;
     --delft-blue: #202e5a;
@@ -12,4 +17,7 @@ body {
     line-height: 1.5;
     background-color: papayawhip;
     color: rgb(67, 67, 190);
+    min-height: 100vh;
+    margin: 10px 20px 30px 40px;
+    border: 10px dotted;
 }
